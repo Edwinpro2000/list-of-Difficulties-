@@ -1,0 +1,35 @@
+{
+  "diffs": [
+    {
+      "name": "Easy Hard",
+      "color": "#43b047"
+    },
+    {
+      "name": "Hard",
+      "color": "#049cd8"
+    },
+    {
+      "name": "Expert",
+      "color": "#7a3fd1"
+    },
+    {
+      "name": "Super Expert",
+      "color": "#e52521"
+    },
+    {
+      "name": "Insane",
+      "color": "#c2185b"
+    },
+    {
+      "name": "Extreme",
+      "color": "#e65100"
+    },
+    {
+      "name": "Impossible",
+      "color": "#111111"
+    }
+  ],
+  "levels": [],
+  "credits": "SpyderSammy\nAnd everyone who helped",
+  "updated": "2026-10-09T20:55:00.000Z"
+}
